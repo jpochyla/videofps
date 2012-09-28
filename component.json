@@ -1,0 +1,12 @@
+{
+  "name": "videofps",
+  "repo": "jpochyla/videofps",
+  "description": "Video files FPS detection",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
